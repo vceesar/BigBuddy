@@ -1,2 +1,2 @@
 # BigBuddy
-Plataforma para busca dos melhores produtos e serviços
+Plataforma para busca de transportes para equinos.
